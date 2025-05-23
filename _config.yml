@@ -1,5 +1,5 @@
 # theme: jekyll-theme-slate
-title: Implicit Neural Representation for Video Restoration
+title: Generalizable Unsupervised Microscopy Video Denoising via Weighted SpatioTemporal Sampling
 markdown: kramdown
 kramdown:
   math_engine: mathjax

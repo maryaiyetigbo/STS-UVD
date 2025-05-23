@@ -96,7 +96,7 @@ Given a noisy video sequence
 $$
 \mathbf{I} \in\mathbb{R}^{T \times H \times W \times C}
 $$
- where \(T,H,W\) and \(C\) are the video length, height, width and channel, respectively, the goal of STS-UVD is reconstruct a denoised video 
+ where $$T,H,W$$ and $$C$$ are the video length, height, width and channel, respectively, the goal of STS-UVD is reconstruct a denoised video 
 $$
 \hat{\mathbf{I}} \in\mathbb{R}^{T \times H \times W \times C}
 $$.
@@ -132,7 +132,7 @@ After each epoch, we employ an optical flow consistency check to the denoised vi
  <tr style="border: none;"><th align="left" style="border: none;"> Fluorescence Microscopy </th></tr>
  <tr style="border: none;"><td align="left" style="border: none;"> <img src="./assets/msc_02.png" width="1000"/> </td></tr>
  <tr style="border: none;"><td align="left" style="border: none;"> <img src="./assets/gowt1.png" width="1000"/> </td></tr>
-</table> -->
+</table> 
  </center>
 
 <!-- <table>
@@ -159,7 +159,7 @@ After each epoch, we employ an optical flow consistency check to the denoised vi
 
 
 
-###
+
 ![result](./assets/qual_results.png)
 
 Quantitative comparison of our method with SOTA video denoising techniques on simulated two-photon calcium imaging datasets with varying fields of view (FOV). Text highlighted in **bold** signifies the highest value, while underlined text denotes the second highest..
