@@ -33,8 +33,8 @@ title: "Generalizable Unsupervised Microscopy Video Denoising via Weighted Spati
 
 <center>
 
-<h1>Generalizable Unsupervised Microscopy Video Denoising via</h1>
-<h1>Weighted SpatioTemporal Sampling</h1>
+<h1>Generalizable Unsupervised Microscopy Video Denoising via<br>Weighted SpatioTemporal Sampling</h1>
+
 
 <!-- <h1 style="display: block;">Unsupervised Microscopy Video Denoising</h1> -->
 <table style="border: none; display: initial;">
